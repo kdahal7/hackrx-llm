@@ -4,4 +4,4 @@ pymupdf
 python-dotenv
 google-generativeai
 sentence-transformers
-pinecone  
+pinecone
