@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-pydantic
-pymupdf
-pinecone-client
-sentence-transformers
-google-generativeai
-python-dotenv
